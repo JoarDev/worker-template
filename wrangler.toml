@@ -1,7 +1,5 @@
 name = "helloworld"
-type = "javascript"
+main = "index.js"
 
-account_id = ""
+compatibility_date = "2022-11-02"
 workers_dev = true
-route = ""
-zone_id = ""
